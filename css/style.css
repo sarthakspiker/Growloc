@@ -308,7 +308,9 @@ section{
 .banner_section .carousel-caption{
     top: 40%;
 }
-
+.banner_section_index{
+    top: 30%;
+}
 .banner_section .carousel-caption h1{
     padding: 0.5rem 1.5rem;
     font-size: 6.5rem;
